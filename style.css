@@ -1,86 +1,19 @@
-body {
-  background-color: #ffffff;
-  font-family: sans-serif;
-  font-size: 16px;
-}
-
-h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-h2 {
-  font-size: 20px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-p {
-  margin-bottom: 10px;
-}
-
-a {
-  text-decoration: none;
-  color: #000000;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-header {
-  background-color: #ffffff;
-  padding: 20px;
-}
-
-nav {
-  float: right;
-  margin-top: 10px;
-}
-
-nav a {
-  padding: 10px 15px;
-  background-color: #000000;
-  color: #ffffff;
-  text-decoration: none;
-  display: block;
-}
-
-nav a:hover {
-  background-color: #0000ff;
-}
-
-main {
-  margin-top: 20px;
-}
-
-section {
-  padding: 20px;
-}
-
-footer {
-  background-color: #ffffff;
-  padding: 20px;
-  text-align: center;
-}
-
-.home {
-  background-color: #000000;
-  color: #ffffff;
-}
-
-.about-me {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-.blog {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-.contact {
-  background-color: #000000;
-  color: #ffffff;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HI EVERYONE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="image-container">
+      <img src="my-image.png" alt="https://c4.wallpaperflare.com/wallpaper/590/152/917/anime-japan-tenki-no-ko-city-weathering-with-you-hd-wallpaper-preview.jpg">
+    </div>
+    <div class="name-container">
+      <h1>Rizal Pawit Danang Nurbaet</h1>
+    </div>
+  </div>
+</body>
+</html>
